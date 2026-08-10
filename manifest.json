@@ -1,0 +1,11 @@
+{
+  "version": "0.2.4",
+  "minimumVersion": "0.2.3",
+  "url": "https://github.com/pjruan123/nonpeace-updates/releases/download/v0.2.4/NonPeaceCheat-0.2.4-Portable-x64.exe",
+  "sha256": "b1590044cad6ba43498b78c240b7350edfc634eb5ca9e4272c3a96c81cf07455",
+  "signature": "BC0AzWUkiZtmWMwGIpe9yKIBY6bDKcDrdwN21kBvTLPbtlILuT1von8CYSlTYll8iQyRlUV7ADT7CptODNLvBA==",
+  "changelog": "Atualizacao automatica, inicializacao completa, MultiBlox estavel e watchdog de contas.",
+  "mandatory": false,
+  "channel": "stable",
+  "publishedAt": "2026-08-10T00:00:55.9446860Z"
+}
