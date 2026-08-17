@@ -1,11 +1,11 @@
 {
-  "version": "0.2.5",
+  "version": "0.2.6",
   "minimumVersion": "0.2.3",
-  "url": "https://github.com/pjruan123/nonpeace-updates/releases/download/v0.2.5/NonPeaceCheat-0.2.5-Portable-x64.exe",
-  "sha256": "013ecf5aa961abcfe146217d8b8c59d0d1bf4a8fe5d54f6bb31f28e073bc890c",
-  "signature": "KxEtJRqIcy3zBDSHPxEL8VSTqf6Oq28MVk+BIruMx+IzThI0JzJG9fnacJv6koWR999JQI6Z1PkABfYXfDggBw==",
-  "changelog": "Watchdog estabilizado contra falsos offline, recuperacao de janela invisivel e reorganizacao automatica na resolucao configurada.",
+  "url": "https://github.com/pjruan123/nonpeace-updates/releases/download/v0.2.6/NonPeaceCheat-0.2.6-Portable-x64.exe",
+  "sha256": "236d14a55f0da76c4271fe910b9b2aa18474b806bd8e01270bae1d2972f362e7",
+  "signature": "5YhliJdOqRgyV+msOEHJKVTrUBetZH0LESWSCja9cainpDd5EVE9ey69Oa4+E/uVgTesXwjFTsuPZvVyo9bsAg==",
+  "changelog": "nova update",
   "mandatory": false,
   "channel": "stable",
-  "publishedAt": "2026-08-10T00:13:28.5398234Z"
+  "publishedAt": "2026-08-17T03:00:21.9166945Z"
 }
